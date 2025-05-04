@@ -59,13 +59,15 @@ The primary motivation for this analysis is to transform experimental data into 
 The following metrics were visualized using **bar charts with error bars (SEM)**:
 
 1. **Hole Board Test**: Shows exploratory behavior (anxiety-like traits).
-2. **Forced Swim Test**: Analyzes immobility time to gauge depressive-like behavior.
-3. **Elevated Plus Maze**: Assesses anxiety by comparing open-arm exploration.
-
-Sample charts generated in this analysis:
-
+   
 ![Hole Board Test](visualizations/Hole_board_test.png)
+
+3. **Forced Swim Test**: Analyzes immobility time to gauge depressive-like behavior.
+   
 ![Forced Swim Test](visualizations/forced_swim_test.png)
+
+5. **Elevated Plus Maze**: Assesses anxiety by comparing open-arm exploration.
+   
 ![Elevated Plus Maze](visualizations/open_arm.png)
 
 ---
