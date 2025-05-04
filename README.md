@@ -68,6 +68,27 @@ Sample charts generated in this analysis:
 ![Forced Swim Test](visualizations/forced_swim_test.png)
 ![Elevated Plus Maze](visualizations/open_arm.png)
 
+---
+
+## 🔍 Insights
+
+| Test              | Scientific Term         | Simplified Meaning                                         |
+|------------------|--------------------------|----------------------------------------------------------|
+| Hole Board Test  | Exploratory Behavior     | More head dips = less anxiety, more curiosity            |
+| Forced Swim Test | Immobility Time          | Less floating = less behavioral despair (less depression)|
+| Elevated Plus Maze| % Entries & Time in Open Arm | More open arm activity = more confidence, less fear |
+
+---
+
+## 💡 Simplified Insights
+
+| Test              | What It Measured                        | Best Result Shown By | What It Means                                                  |
+|------------------|------------------------------------------|----------------------|----------------------------------------------------------------|
+| Hole Board Test  | How curious or anxious the animal was    | Standard             | These animals were more active and curious — less anxious.     |
+| Forced Swim Test | How quickly the animal gave up swimming  | Standard / Sample2   | These animals kept trying longer — showing fewer depression signs. |
+| Elevated Plus Maze| Willingness to explore open spaces      | Standard             | Animals were more comfortable exploring — showing less fear.   |
+
+---
 ## 📄 License
 
 This project is licensed under the MIT License. Feel free to use, modify, or extend it with attribution.
