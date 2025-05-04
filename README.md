@@ -54,6 +54,17 @@ The primary motivation for this analysis is to transform experimental data into 
 - **Matplotlib**: For generating bar charts and visualizations.
 - **Excel**: To handle `.xlsx` files containing experimental data.
 
+## 📂 Dataset
+
+The dataset used in this analysis is available in the `dataset/` folder. It contains the following columns:
+
+- `Group`: Experimental group (Control, Standard, Sample1, Sample2)
+- `Metric`: The measure being analyzed (e.g., Head Dips, Immobility Time)
+- `SEM`: Standard Error of the Mean (for error bars)
+
+The dataset can be used to reproduce the visualizations and analyses shown in this project.
+
+
 ## 📊 Visualizations
 
 The following metrics were visualized using **bar charts with error bars (SEM)**:
